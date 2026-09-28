@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Watch & Earn",
+    "slug": "watch-earn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.jukajadlum.watchearn"
+    }
+  }
+}
